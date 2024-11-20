@@ -1,0 +1,249 @@
+{
+  "heading": "The Enchanted Forest Adventure",
+  "topics": [
+    {
+      "heading": "The Enchanted Forest Adventure",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What did Maya and Liam decide to do one afternoon?",
+          "options": [
+            "A) Play inside their house",
+            "B) Explore the forest behind their house",
+            "C) Visit a museum",
+            "D) Build a treehouse"
+          ],
+          "answer": 1,
+          "explanation": "The story begins with Maya and Liam deciding to explore the forest behind their house. This is the main action that starts the adventure."
+        },
+        {
+          "questionNo": 2,
+          "question": "What did Maya and Liam find in the forest?",
+          "options": [
+            "A) A hidden treasure chest",
+            "B) A glowing path covered in moss",
+            "C) A mysterious map",
+            "D) A giant bear"
+          ],
+          "answer": 1,
+          "explanation": "While exploring the forest, Maya and Liam discover a hidden path covered in soft, glowing moss, which is a magical element in the story."
+        },
+        {
+          "questionNo": 3,
+          "question": "What was unusual about the trees in the forest?",
+          "options": [
+            "A) They were very tall and the air became cooler",
+            "B) They were made of gold",
+            "C) They had leaves that glowed in the dark",
+            "D) They were full of fruit"
+          ],
+          "answer": 0,
+          "explanation": "As Maya and Liam walked deeper into the forest, they noticed the trees growing taller and the air becoming cooler, creating a magical atmosphere in the story."
+        },
+        {
+          "questionNo": 4,
+          "question": "What did Maya and Liam find at the end of the glowing path?",
+          "options": [
+            "A) A hidden cave",
+            "B) A dragon's lair",
+            "C) A house made of candy",
+            "D) A shimmering golden waterfall and a sparkling pond"
+          ],
+          "answer": 3,
+          "explanation": "At the end of the glowing path, they reached a large clearing with a golden waterfall and a sparkling pond, which was part of the magical setting in the story."
+        },
+        {
+          "questionNo": 5,
+          "question": "Who did Maya and Liam meet in the clearing?",
+          "options": [
+            "A) A wise old owl",
+            "B) A magical unicorn and a mischievous fairy",
+            "C) A wizard with a long beard",
+            "D) A talking tree"
+          ],
+          "answer": 1,
+          "explanation": "When Maya and Liam step into the clearing, they meet a unicorn and a fairy, which are fictional magical creatures, helping to create a fantastical atmosphere."
+        },
+        {
+          "questionNo": 6,
+          "question": "What did the unicorn tell Maya and Liam?",
+          "options": [
+            "A) They were lost in the forest",
+            "B) They had entered the Enchanted Forest, a place only a few could visit",
+            "C) They needed to leave immediately",
+            "D) They would never return home"
+          ],
+          "answer": 1,
+          "explanation": "The unicorn explains that Maya and Liam have entered a special place, the Enchanted Forest, which is magical and not accessible to just anyone."
+        },
+        {
+          "questionNo": 7,
+          "question": "What genre does 'The Enchanted Forest Adventure' belong to?",
+          "options": [
+            "A) Fiction",
+            "B) Non-fiction",
+            "C) Poetry",
+            "D) Informational text"
+          ],
+          "answer": 0,
+          "explanation": "The story is fictional because it contains imaginary elements such as a talking unicorn, a fairy, and a magical forest. Fiction involves made-up characters and events."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which element in the story is an example of fantasy?",
+          "options": [
+            "A) The glowing moss path",
+            "B) The characters are based on real people",
+            "C) The forest behind Maya's house"
+          ],
+          "answer": 0,
+          "explanation": "The glowing moss path is a fantasy element, as it is magical and not something that exists in real life. Fantasy involves elements that are imaginary and magical."
+        },
+        {
+          "questionNo": 9,
+          "question": "What is the main theme of 'The Enchanted Forest Adventure'?",
+          "options": [
+            "A) The importance of teamwork",
+            "B) The discovery of magic and adventure",
+            "C) The power of friendship",
+            "D) The challenges of exploring nature"
+          ],
+          "answer": 1,
+          "explanation": "The main theme of the story is about discovering a magical world full of adventure and wonder, which Maya and Liam experience through their exploration of the forest."
+        },
+        {
+          "questionNo": 10,
+          "question": "What made the forest seem magical to Maya and Liam?",
+          "options": [
+            "A) The trees were very tall",
+            "B) The forest was silent and peaceful",
+            "C) They found a treasure chest",
+            "D) They met magical creatures like a unicorn and a fairy"
+          ],
+          "answer": 3,
+          "explanation": "The magical creatures like the unicorn and fairy made the forest feel enchanted and mystical, which are typical elements of a magical story."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which part of the story shows it is a work of fiction?",
+          "options": [
+            "A) Maya and Liam explore a real forest",
+            "B) The story includes real historical events",
+            "C) The story features magical creatures and events",
+            "D) The story describes real places"
+          ],
+          "answer": 2,
+          "explanation": "The inclusion of magical creatures, like the unicorn and fairy, and magical events, like the glowing path, makes this story a work of fiction. Fiction often includes imaginary elements."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which of the following best describes the tone of the story?",
+          "options": [
+            "A) Scary and suspenseful",
+            "B) Exciting and magical",
+            "C) Serious and informative",
+            "D) Sad and depressing"
+          ],
+          "answer": 1,
+          "explanation": "The tone of the story is exciting and magical as Maya and Liam have a thrilling adventure in a world full of wonders and mythical creatures."
+        },
+        {
+          "questionNo": 13,
+          "question": "Read the next story from the above button and answer the following questions. <br> What is the main topic of the story?",
+          "options": [
+            "A) The life cycle of a monarch butterfly",
+            "B) The migration of monarch butterflies",
+            "C) The dangers of monarch butterflies",
+            "D) The habits of monarch butterflies"
+          ],
+          "answer": 1,
+          "explanation": "The main focus of the story is the incredible journey or migration of monarch butterflies, which spans thousands of miles from North America to Mexico."
+        },
+        {
+          "questionNo": 14,
+          "question": "What is the purpose of the monarch butterflies' journey?",
+          "options": [
+            "A) To find food",
+            "B) To escape the cold winter",
+            "C) To visit other butterflies",
+            "D) To discover new places"
+          ],
+          "answer": 1,
+          "explanation": "Monarch butterflies migrate from North America to Mexico to escape the cold winter, as described in the story."
+        },
+        {
+          "questionNo": 15,
+          "question": "How do monarch butterflies navigate during their migration?",
+          "options": [
+            "A) By using the sun, Earth's magnetic field, and their instincts",
+            "B) By using the stars",
+            "C) By following other animals",
+            "D) By using maps"
+          ],
+          "answer": 0,
+          "explanation": "Monarch butterflies use the sun, Earth’s magnetic field, and their natural instincts to guide them on their long journey."
+        },
+        {
+          "questionNo": 16,
+          "question": "How do monarch butterflies travel on their migration?",
+          "options": [
+            "A) In large groups on the ground",
+            "B) By swimming",
+            "C) By flying through different weather conditions",
+            "D) By travelling on the backs of other animals"
+          ],
+          "answer": 2,
+          "explanation": "Monarch butterflies fly through various weather conditions during their migration, as mentioned in the text."
+        },
+        {
+          "questionNo": 17,
+          "question": "What happens after the monarch butterflies mate in Mexico?",
+          "options": [
+            "A) They stay in Mexico for the rest of their lives",
+            "B) They start their journey back north",
+            "C) They hibernate until spring",
+            "D) They leave Mexico for other countries"
+          ],
+          "answer": 1,
+          "explanation": "After resting and mating, the monarch butterflies begin their return journey back north to their breeding grounds."
+        },
+        {
+          "questionNo": 18,
+          "question": "What happens when the monarch butterflies return north?",
+          "options": [
+            "A) They stay in Mexico for the summer",
+            "B) They continue their migration journey",
+            "C) They return to their breeding grounds and start the cycle again",
+            "D) They stop flying and rest forever"
+          ],
+          "answer": 2,
+          "explanation": "When the monarch butterflies return north, they reach their breeding grounds, where they continue the cycle of migration for future generations."
+        },
+        {
+          "questionNo": 19,
+          "question": "What kind of writing is the story about monarch butterflies?",
+          "options": [
+            "A) Fiction",
+            "B) Fantasy",
+            "C) Poetry",
+            "D) Non-fiction"
+          ],
+          "answer": 3,
+          "explanation": "This story is non-fiction because it presents real information about the migration of monarch butterflies and describes a natural event in the real world."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of these is most likely to be found in a non-fiction text?",
+          "options": [
+            "A) A character finding a hidden treasure",
+            "B) A description of how rain forms",
+            "C) A magical spell being cast",
+            "D) A dragon battling a knight"
+          ],
+          "answer": 1,
+          "explanation": "Non-fiction texts are based on real information. A description of how rain forms is a factual explanation, while the other options describe fictional events or magical elements."
+        }
+      ]
+    }
+  ]
+}

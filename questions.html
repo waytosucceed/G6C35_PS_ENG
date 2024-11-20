@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questions</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+  <script src="./questions.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.7.0/dist/confetti.browser.min.js"></script>
+
+</head>
+<body>
+  <!-- <audio id="cheers">
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio> -->
+  <!-- <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio> -->
+  <audio id="submit-sound" src="./assests/sounds/submit.mp3"></audio>
+  <header class="header">
+    <img src="./assests/logo/Logo.png" alt="Logo" class="logo">
+    <span><img src="./assests/logo/header.png" alt="Header" class="header-image"></span>
+  </header>
+  <main class="container">
+    <h1 id="heading" class="text-center"></h1>
+    <div id="buttonContainer" class="text-center"></div>
+    <div style="text-align: center; margin: 10px;">
+    <button class="modal-btn btn " data-toggle="modal" data-target="#storyModal">Click here to read story</button>
+  </div>
+    <div class="row maindiv">
+      <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 numdiv">
+        <p id="numdiv"></p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 imgdiv" id="picdiv">
+        <img id="math_ques" src="Math Question.jpg" class="img-responsive">
+      </div>
+      <div id="questiondiv" class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+        <div id="question"></div>
+        <br>
+        <div class="menu" id="head">
+          <ul id="options"></ul>
+        </div>
+        <button id="subbtn" class="btn btn-success" onclick="checkAnswer()">Submit Answer</button>
+        <button id="nextbtn" class="btn btn-primary" onclick="newques()" style="display:none">Next</button>
+        <p id="result"></p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal -->
+  <div id="storyModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">The Enchanted Forest Adventure</h4>
+        </div>
+        <div class="modal-body">
+          <p>One sunny afternoon, Maya and her little brother Liam decided to explore the dense forest behind their house. They had heard stories about the mysterious trees and magical creatures that lived there, but they never thought the stories were true. As they walked deeper into the forest, they noticed the trees growing taller and the air becoming cooler. Suddenly, they stumbled upon a hidden path covered in soft, glowing moss. Intrigued, they followed it, not knowing where it would lead. After walking for what felt like hours, they finally reached a large clearing where a shimmering golden waterfall cascaded into a sparkling pond.</p>
+          <p>To their surprise, the moment they stepped into the clearing, the creatures from the stories appeared! A majestic unicorn with a flowing mane and a mischievous fairy with wings that glowed as stars fluttered around them. The unicorn spoke softly, telling them that they had entered the Enchanted Forest, a place that only a few could visit. The fairy smiled and waved her wand, and suddenly, a path of light appeared, leading Maya and Liam back home. As they stepped back onto their own land, they realized that the Enchanted Forest was more than just a story—it was a world of wonder that would always be in their hearts.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>
